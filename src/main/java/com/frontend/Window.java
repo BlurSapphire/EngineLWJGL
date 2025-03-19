@@ -15,7 +15,7 @@ public class Window {
     public Window(){
         width = 800;
         height = 800;
-        shader = new ShaderConfig();
+        //shader = new ShaderConfig();
     }
 
     public void initParam(){
